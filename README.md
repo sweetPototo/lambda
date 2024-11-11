@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ea30e620-d480-4ec8-85ef-3eb55c0b582f" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/ea30e620-d480-4ec8-85ef-3eb55c0b582f" width="300" height="400"/>
 
 ## **공부에 사용한 책 : JAVA 프로래밍 기초**
 
